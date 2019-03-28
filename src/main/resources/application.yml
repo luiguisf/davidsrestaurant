@@ -1,0 +1,3 @@
+davidsrestaurant:
+  menu:
+    endpoint: "https://davids-restaurant.herokuapp.com/menu_items.json"
